@@ -1,5 +1,5 @@
 # Rubicon Water order
-api creation using springboot and using in memory H2 database 
+API creation using springboot and using in memory H2 database 
 
 Functional areas covered
 1. API for quering the existing water orders.
